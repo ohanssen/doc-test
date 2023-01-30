@@ -1,5 +1,5 @@
-Welcome to DocTest documentation!
-===================================
+Welcome to Polaric Server documentation!
+========================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -18,5 +18,7 @@ Contents
 
 .. toctree::
 
+   gettingstarted
    usage
    api
+   testin
