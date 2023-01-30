@@ -39,3 +39,6 @@ Og så tester vi litt:
 ==== ====
 Kol1 Kol2
 ==== ====
+edb1 edb2
+edb3 edc
+==== ====
