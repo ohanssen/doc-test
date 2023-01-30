@@ -32,3 +32,10 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Og så tester vi litt: 
+
+ rm -R * 
+
+==== ====
+Kol1 Kol2
+==== ====
